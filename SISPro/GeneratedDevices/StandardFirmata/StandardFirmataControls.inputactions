@@ -1,0 +1,387 @@
+{
+    "version": 1,
+    "name": "StandardFirmataControls",
+    "maps": [
+        {
+            "name": "StandardFirmata",
+            "id": "2feb2128-65fa-4e49-a2d5-027498300b43",
+            "actions": [
+                {
+                    "name": "D2",
+                    "type": "Button",
+                    "id": "23918383-6c80-438c-b023-4cb65994de57",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D3",
+                    "type": "Button",
+                    "id": "c5e80a37-444f-449b-9c3e-3201326d3739",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D4",
+                    "type": "Button",
+                    "id": "1d0ea9e0-0b76-40b6-be43-e3d3445e94c6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D5",
+                    "type": "Button",
+                    "id": "b0684b4b-ea7b-49ce-ad9d-596596900751",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D6",
+                    "type": "Button",
+                    "id": "0a5bfe37-abc2-4e9f-b54f-a304bd4f40a4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D7",
+                    "type": "Button",
+                    "id": "59775d0f-03a7-415f-bbd4-31fa09384d53",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D8",
+                    "type": "Button",
+                    "id": "d233d0fa-a530-4540-bbce-7fddd140b767",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D9",
+                    "type": "Button",
+                    "id": "c81b5ad0-a663-459e-9b94-1bf64e5a7b9d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D10",
+                    "type": "Button",
+                    "id": "3773ec43-7074-408f-ab99-eed67ee3d81b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D11",
+                    "type": "Button",
+                    "id": "a5cbe367-2097-448c-a4a9-d2d2a44835d7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D12",
+                    "type": "Button",
+                    "id": "38d5ab45-4388-4a6e-ba79-d324d11e80cf",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D13",
+                    "type": "Button",
+                    "id": "cd6f2692-401e-4853-8693-9f00d1f06d4c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "A0",
+                    "type": "Value",
+                    "id": "ade2fc8e-7695-4185-bcc1-6383c5274d27",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "A1",
+                    "type": "Value",
+                    "id": "61e20ca3-3f80-47ce-a024-969aec1ef49e",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "A2",
+                    "type": "Value",
+                    "id": "985ae891-6e63-47be-9d71-07a657fae7fd",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "A3",
+                    "type": "Value",
+                    "id": "67ce6884-d3ae-4c29-b882-018b53eb1887",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "A4",
+                    "type": "Value",
+                    "id": "6edd4961-e7bd-4f4c-9127-92182344cc89",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "A5",
+                    "type": "Value",
+                    "id": "9b016dfd-24b2-4564-912e-d70cfa04847a",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8fea0e2a-23ce-4e15-9fb7-ea5a9a1ef9c1",
+                    "path": "<StandardFirmataInputDevice>/D2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8f69d5c4-8842-46e9-ba29-5e6d19febae1",
+                    "path": "<StandardFirmataInputDevice>/D3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "40be1975-79b0-487f-b369-b5ff5747f997",
+                    "path": "<StandardFirmataInputDevice>/D4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d82ea54b-f4ea-490b-bdfb-a7e16e45f1c2",
+                    "path": "<StandardFirmataInputDevice>/D5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "31f6543e-7d32-4b7a-b0e2-4661ca217934",
+                    "path": "<StandardFirmataInputDevice>/D6",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d3ecf1a9-3408-4737-8a90-783bef34b0e7",
+                    "path": "<StandardFirmataInputDevice>/D7",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D7",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "17c60819-85f8-4c92-8cdc-de976f96640d",
+                    "path": "<StandardFirmataInputDevice>/D8",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D8",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "22a26dea-98b7-429c-a671-45f13af2f684",
+                    "path": "<StandardFirmataInputDevice>/D9",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D9",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7ed2dfd9-aa1f-4c95-a263-32281bea0cca",
+                    "path": "<StandardFirmataInputDevice>/D10",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D10",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "65062ded-0973-49bf-ab72-75d9fba98bf2",
+                    "path": "<StandardFirmataInputDevice>/D11",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D11",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6656c3f3-899f-4cd2-bed0-af2f4990b80d",
+                    "path": "<StandardFirmataInputDevice>/D12",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D12",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a2c5b334-1ee2-4c5c-961f-8dfac5a5f5f6",
+                    "path": "<StandardFirmataInputDevice>/D13",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "D13",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "701dd4fd-eed5-41f8-b89c-6b9e85902ca6",
+                    "path": "<StandardFirmataInputDevice>/A0",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "A0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9273d077-f375-4e9e-aeda-cc3553885acd",
+                    "path": "<StandardFirmataInputDevice>/A1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "A1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bc4223a0-e292-476e-ba83-fc9198db97fb",
+                    "path": "<StandardFirmataInputDevice>/A2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "A2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "485dfbd3-a430-4250-b989-f4e4d2e354b7",
+                    "path": "<StandardFirmataInputDevice>/A3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "A3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7d1d1f7c-5901-43b7-bd59-8443fce8903a",
+                    "path": "<StandardFirmataInputDevice>/A4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "A4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0b9db4a2-fc9f-451e-ae09-b7ce82e78ed9",
+                    "path": "<StandardFirmataInputDevice>/A5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "StandardFirmata",
+                    "action": "A5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "StandardFirmata",
+            "bindingGroup": "StandardFirmata",
+            "devices": [
+                {
+                    "devicePath": "<StandardFirmataInputDevice>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

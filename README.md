@@ -59,7 +59,7 @@ Connect Arduino boards to Unity's Input System over serial. SISPro detects your 
 - **Device doesn't appear in the binding picker:** re-open the Input Actions asset after the profile is created; layouts are registered on every script reload.
 - **Analog pin skipped:** click **Re-scan Board** so SISPro can learn the board's analog channel mapping.
 
-Still stuck? Commercial license holders get direct support: [link].
+Still stuck? Free users: please open a [GitHub Issue](../../issues). Commercial license holders: email [contact@syazmedia.com](mailto:contact@syazmedia.com) with your order number in the subject line for direct support.
 
 ## License
 
@@ -75,4 +75,6 @@ If you want to use SISPro in a closed-source or proprietary project without the 
 - Priority email support
 - [updates / setup help / custom board support, whatever you actually offer]
 
-Get it at [link], or contact [email] for studio or team licensing.
+Buy a license at [syazmedia.com](https://syazmedia.com), or email [contact@syazmedia.com](mailto:contact@syazmedia.com) to purchase directly or to ask about studio and team licensing.
+
+**Support:** commercial license holders can email [contact@syazmedia.com](mailto:contact@syazmedia.com) with their order number in the subject line. Free users, please use [GitHub Issues](../../issues).
